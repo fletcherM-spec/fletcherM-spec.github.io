@@ -5,6 +5,4 @@ body {
 .box {
   display: flex;
   background-color: darkgray;
-  justify-content: center;
-  height: 1000px;
 }
